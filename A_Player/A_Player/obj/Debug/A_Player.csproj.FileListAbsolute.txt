@@ -1,0 +1,23 @@
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\A_Player.csproj.ResolveComReference.cache
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\bin\Debug\A_Player.exe
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\bin\Debug\A_Player.pdb
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\bin\Debug\taglib-sharp.dll
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\A_Player.Form1.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\A_Player.Properties.Resources.resources
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\A_Player.exe
+C:\Users\Intel\Documents\Visual Studio 2010\Projects\A_Player\A_Player\obj\Debug\A_Player.pdb
+C:\Users\krend\Desktop\A_Player\A_Player\bin\Debug\A_Player.exe
+C:\Users\krend\Desktop\A_Player\A_Player\bin\Debug\A_Player.pdb
+C:\Users\krend\Desktop\A_Player\A_Player\bin\Debug\taglib-sharp.dll
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\A_Player.csproj.ResolveComReference.cache
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\A_Player.Form1.resources
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\A_Player.Properties.Resources.resources
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\A_Player.csproj.GenerateResource.Cache
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\A_Player.exe
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\A_Player.pdb
+C:\Users\krend\Desktop\A_Player\A_Player\obj\Debug\A_Player.csprojResolveAssemblyReference.cache
