@@ -3,5 +3,5 @@
 Участники:
 Полудённый Никита (4erDak) - teamLead
 Ткаченко Андрей(mrlead) - programmer
-Мартынов Артём()
-Кутелёв Роман()*/
+Мартынов Артём(Fatback) - assistent
+Кутелёв Роман(Reventon23) - assistent*/
